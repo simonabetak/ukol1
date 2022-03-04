@@ -1,0 +1,96 @@
+body, h1, h2, h3 {
+font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    margin-left: 140px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h4 {
+    margin-top: 15px;
+}
+.photo {
+    width: 220px;
+    height: 240px;
+    border-radius: 30%;
+    float: left;
+    margin: 20px 40px 30px 0;
+    border: 2px solid #282425;
+}
+body {
+    background-color: #f5dedc;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+}
+footer {
+    padding: 10px 0;
+    margin: 0;
+    text-align: center;
+    background-color: #282425;
+    color: #f5dedc;
+}
+section {
+    padding: 50px 15%;
+    overflow: auto;
+}
+p {
+    margin: 20px;
+}
+.aboutme,
+.welcome,
+.education {
+    background-color: #e4c7c5;
+}
+
+.navigation {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: #282425;
+    position: sticky;
+    top: 0;
+}
+.navigation li{
+    display: inline-block;
+    position: sticky;
+} 
+.navigation a {
+    color: #f5dedc;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
+.navigation a:hover,
+.navigation a:active,
+.navigation a:focus {
+    background-color: #524847;
+}
+
+.desc {
+    padding: 0 25px 25px 25px;
+}
+
+.email,
+.linkedin {
+    width: 50px;
+}
+.contact {
+    text-align: right;
+    margin: 0px;
+    padding: 15px;
+    background-color: #e4c7c5
+}
+.p-aboutme {
+    padding-top: 40px;
+}
+.p-experience {
+    line-height: 1;
+}
+
+.p-style {
+    font-weight: 500;
+    font-style: italic;
+}
