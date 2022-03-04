@@ -94,3 +94,6 @@ p {
     font-weight: 500;
     font-style: italic;
 }
+.contact a {
+    text-decoration: none;
+}
